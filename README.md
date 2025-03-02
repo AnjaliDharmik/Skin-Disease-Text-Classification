@@ -1,5 +1,4 @@
-# Project Title:
-Skin Disease Text Classification
+# Skin Disease Text Classification
 
 ## Data Collection:
 We considered three primary methods for collecting relevant data:
